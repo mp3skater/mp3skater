@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mp3skater
+- 👀 I’m interested in coding exciting Projekts of all kind
+- 🌱 I’m currently learning modding Minecraft
+- 📫 How to reach me: mp3skaterr@gmail.com for questions
