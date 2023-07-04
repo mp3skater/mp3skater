@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mp3skater
-- 👀 I’m interested in coding exciting Projekts of all kind
-- 🌱 I’m currently coding a Minecraft Mod, using this tutorial: "https://www.youtube.com/playlist?list=PLKGarocXCE1Hut51TKKqZKqVZtKLZC48x"
-- 📫 If any Questions: ask me with mailing to this adress: "mp3skaterr@gmail.com"
+- Hi, I’m @mp3skater
+- I’m interested in coding exciting projects of all kind
+- I’m currently coding a Minecraft Mod, using this tutorial: "https://www.youtube.com/playlist?list=PLKGarocXCE1Hut51TKKqZKqVZtKLZC48x"
+- If you have any Questions: ask me on Discord: @mp3skater
