@@ -1,3 +1,3 @@
 - Hi, I’m mp3skater
-- I’m interested in exciting coding projects of all kind, but now kinda sick of Java.
+- I’m interested in exciting coding projects of all kind, I kind of hate Java but also not really.
 - If you have any questions or remarks, you can ask me on Discord: @mp3skater
