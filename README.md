@@ -23,7 +23,7 @@
 - 🔭 that's interested in exciting coding projects of all kind :)
 - ⚡ I mostly use Java and C but also I'm working towards AI/App/website development
 - 📫 How to reach me: mp3skater@duck.com
-- Or on discord: @mp3skater
+- Or on discord: [@mp3skater](discordapp.com/users/801074717192486932)
 
 ---
 
