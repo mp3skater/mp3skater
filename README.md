@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="new mand.png" width="300"/>
+  <img src="new mand.png" width="220"/>
   <div id="badges">
   <a href="Discord-Account-URL">
     <img src="https://img.shields.io/badge/Discord Profile-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
