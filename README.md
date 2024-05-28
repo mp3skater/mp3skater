@@ -18,8 +18,9 @@
 </h1>
 </div>
 
-
-- Hi, I’m mp3skater
-- I’m interested in exciting coding projects of all kind
-- I mostly use Java and C but also I'm working towards AI/App/website development...
-- You can contact me on Discord: @mp3skater
+### About Me :
+- 💼 I’m student at the school: Max Valier in Bozen/Bolzano,
+- 🔭 that's interested in exciting coding projects of all kind :)
+- ⚡ I mostly use Java and C but also I'm working towards AI/App/website development
+- 📫 How to reach me: mp3skater@duck.com
+- Or on discord: @mp3skater
