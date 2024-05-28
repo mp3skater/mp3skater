@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="new mand.png" width="220"/>
   <div id="badges">
-  <a href="discordapp.com/users/801074717192486932">
+  <a href="discordapp.com/users/mp3skater">
     <img src="https://img.shields.io/badge/Discord Profile-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://buymeacoffee.com/mp3skater">
