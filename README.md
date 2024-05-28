@@ -19,11 +19,13 @@
 </div>
 
 ### About Me :
-- 💼 I’m student at the school: Max Valier in Bozen/Bolzano,
-- 🔭 that's interested in exciting coding projects of all kind :)
-- ⚡ I mostly use Java and C but also I'm working towards AI/App/website development
+- 💼 Student at the school: Max Valier in Bozen/Bolzano
+- 🔭 Interested in exciting coding projects of all kind :)
+- ⚡ Mostly use Java and C
+- 🧮 But also shellscript, networks, ect.
+- ♟️ Working towards AI/App/website development with python 😎
 - 📫 How to reach me: mp3skater@duck.com
-- Or on discord: [@mp3skater](discordapp.com/users/801074717192486932)
+  - On discord: [@mp3skater](discordapp.com/users/801074717192486932)
 
 ---
 
