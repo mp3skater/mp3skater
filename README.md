@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="new mand.png" width="220"/>
   <div id="badges">
-  <a href="discordapp.com/users/801074717192486932">
+  <a href="https://discord.com/users/801074717192486932">
     <img src="https://img.shields.io/badge/Discord Profile-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://buymeacoffee.com/mp3skater">
@@ -25,7 +25,7 @@
 - 🧮 But also shellscript, networks, ect.
 - ♟️ Working towards AI/App/website development with python 😎
 - 📫 How to reach me: mp3skater@duck.com
-  - On discord: [@mp3skater](discordapp.com/users/801074717192486932)
+  - On discord: [@mp3skater](https://discord.com/users/801074717192486932)
 
 ---
 
