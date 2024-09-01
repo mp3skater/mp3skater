@@ -22,9 +22,9 @@
 ### 👤 About Me
 
 - 🎓 **Highschool student**
-- 💻 **Passionate about Coding Projects** of all kinds
+- 💻 **Into Coding Projects** of all kinds
 - 💡 **Languages I Speak:** Java, Python, Shell Script, C
-- 🍥 **Things I Love:** AI development, Raspberry Pi projects, and this 🥧 emoji
+- 🍥 **Things I Love:** AI development, Raspberry Pi projects, and these: 🍱 🍵 🍜 🍕 🍹 🍈
 - 📫 **Reach Out:**
   - **Email:** mp3skater@duck.com
   - **Discord:** [mp3skater](https://discord.com/users/801074717192486932)
