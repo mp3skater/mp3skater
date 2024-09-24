@@ -22,9 +22,9 @@
 ### 👤 About Me
 
 - 🎓 **Highschool student**
-- 💻 **Into Coding Projects** of all kinds
+- 💻 **Currently working on** [getop](https://www.github.com/mp3skater/getop)
 - 💡 **Languages I Speak:** Java, Python, Shell Script, C
-- 🍥 **Things I Love:** AI development, Raspberry Pi projects, and these: 🍱 🍵 🍜 🍕 🍹 🍈
+- 📚 **Learning at the moment:** AI development, webapp with dart, testing modules
 - 📫 **Reach Out:**
   - **Email:** mp3skater@duck.com
   - **Discord:** [mp3skater](https://discord.com/users/801074717192486932)
