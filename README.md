@@ -5,9 +5,7 @@
     <a href="https://discord.com/users/801074717192486932">
       <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile Badge"/>
     </a>
-    <a href="https://buymeacoffee.com/mp3skater">
-      <img src="https://img.shields.io/badge/Buy%20me%20a%20cup%20of%20tea-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Tea Badge"/>
-    </a>
+    <a href="https://www.buymeacoffee.com/mp3skater"><img alt="Buy me a Coffee" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/buymeacoffee-singular_vector.svg"></a>
     <a href="mailto:mp3skater@duck.com">
       <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
