@@ -20,7 +20,7 @@
 ### 👤 About Me
 
 - 🎓 **Highschool student**
-- 💻 **Currently working on** [getop](https://www.github.com/mp3skater/getop)
+- 💻 **Currently working on** [LexiPal](https://www.github.com/mp3skater/LexiPal)
 - 💡 **Languages I Speak:** Java, Python, Shell Script, C
 - 📚 **Learning at the moment:** AI development, webapp with dart, testing modules
 - 📫 **Reach Out:**
