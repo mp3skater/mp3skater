@@ -51,9 +51,6 @@
 ### 🔥 My GitHub Stats
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=mp3skater&theme=nightowl&background=011627" alt="GitHub Streak"/>
-  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mp3skater&layout=compact&theme=nightowl" alt="Top Languages" height="195"/>
   </a>
