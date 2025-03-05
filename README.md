@@ -21,8 +21,9 @@
 
 - 🎓 **Highschool student**
 - 💻 **Currently working on** [LexiPal](https://www.github.com/mp3skater/LexiPal)
+- 📚 **Learning at the moment:** ai in production, webapps, cyber security
 - 💡 **Languages I Speak:** Java, Python, Shell Script, C
-- 📚 **Learning at the moment:** AI development, webapp with dart, testing modules
+- 🌎 **OK this time for real:** Italian 🇮🇹, German 🇩🇪, English 🇺🇸, a little Japanese 🇯🇵
 - 📫 **Reach Out:**
   - **Email:** mp3skater@duck.com
   - **Discord:** [mp3skater](https://discord.com/users/801074717192486932)
