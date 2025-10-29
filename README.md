@@ -9,10 +9,10 @@
 ### 👤 About Me
 
 - 🎓 **Highschool student**
-- 💻 **Currently working on TOP SECRET**
-- 📚 **Learning at the moment:** drivers licence, data science, ai or smth
+- 💻 **Currently working on DeskJarvis**
+- 📚 **Learning at the moment:** drivers licence, data science, ai
 - 💡 **Languages I Code:** Python, Java, Shell Script, C
 - 🌎 **Languages I Speak:** Italian 🇮🇹, German 🇩🇪, English 🇺🇸 and a little Japanese 🇯🇵
 - 📫 **Reach Out:**
-  - **Email:** mp3skater+git@duck.com
+  - **Email:** mp3skater+gitcontact@duck.com
   - **Discord:** [mp3skater](https://discord.com/users/801074717192486932)
