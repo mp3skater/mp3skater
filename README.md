@@ -9,7 +9,7 @@
 ### 👤 About Me
 
 - 🎓 **Highschool student**
-- 💻 **Currently working on DeskJarvis**
+- 💻 **Currently getting to know the business world**
 - 📚 **Learning at the moment:** drivers licence, data science, ai
 - 💡 **Languages I Code:** Python, Java, Shell Script, C
 - 🌎 **Languages I Speak:** Italian 🇮🇹, German 🇩🇪, English 🇺🇸 and a little Japanese 🇯🇵
