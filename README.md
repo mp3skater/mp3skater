@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="res/mando_coding.png" width="220" alt="Logo"/>
   <h1>
-    ビジネス王になるおとこだ！
+    ビジネス王になる男だ！
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave"/>
   </h1>
 </div>
